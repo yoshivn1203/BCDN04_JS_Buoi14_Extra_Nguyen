@@ -1,0 +1,13 @@
+body {
+  background-image: url(../img/img1.jpg);
+  background-size: cover;
+}
+
+.card {
+  border: none;
+  background-color: transparent;
+}
+
+.alert {
+  padding: 5px 5px;
+}
